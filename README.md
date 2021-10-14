@@ -7,7 +7,7 @@
 Tabela de conteúdos
 =================
 <!--ts-->
-   * [Sobre](#Teste)
+   * [Sobre](#Descrição do Projeto)
    * [Tabela de Conteudo](#tabela-de-conteudo)
    * [Instalação](#instalacao)
    * [Como usar](#como-usar)
