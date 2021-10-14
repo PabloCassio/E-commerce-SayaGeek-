@@ -23,7 +23,7 @@ Tabela de conteúdos
 	🚧  E-commerce (sayageek.com.br) 🚀 Em construção...  🚧
 </h4>
 
-### Features
+### Progresso
 
 - [ ] Construção do modelo conceitual do Banco de Dados
 - [ ] Construção do diagrama de Casos de Uso	
