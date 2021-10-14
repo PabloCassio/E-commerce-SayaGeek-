@@ -9,7 +9,7 @@ Tabela de conteúdos
 <!--ts-->
    * [Sobre](#Descrição-do-Projeto)
    * [Tabela de Conteudo](#tabela-de-conteudo)
-   * [Instalação](#instalacao)
+   * [Andamento das atividades](#Progresso)
    * [Como usar](#como-usar)
       * [Pre Requisitos](#pre-requisitos)
       * [Local files](#local-files)
