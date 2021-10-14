@@ -25,6 +25,6 @@ Tabela de conteúdos
 
 ### Features
 
-- [] Construção do modelo conceitual do Banco de Dados
-- [] Construção do diagrama de Casos de Uso	
+- [ ] Construção do modelo conceitual do Banco de Dados
+- [ ] Construção do diagrama de Casos de Uso	
  
