@@ -19,4 +19,12 @@ Tabela de conteúdos
    * [Tests](#testes)
    * [Tecnologias](#tecnologias)
 <!--te-->
+<h4 align="center"> 
+	🚧  E-commerce (sayageek.com.br) 🚀 Em construção...  🚧
+</h4>
 
+### Features
+
+- [x] Cadastro de usuário
+- [x] Cadastro de cliente
+- [ ] Cadastro de produtos
