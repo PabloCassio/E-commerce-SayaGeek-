@@ -21,3 +21,11 @@ Tabela de conteúdos
 - [ ] Construção do modelo conceitual do Banco de Dados
 - [ ] Construção do diagrama de Casos de Uso	
  
+### 🛠 Tecnologias
+
+As seguintes ferramentas foram usadas na construção do projeto:
+
+- [MySQL Workbench](https://www.mysql.com/products/workbench/)
+- [Astah UML](https://astah.net/downloads/)
+- [Eclipse IDE](https://www.eclipse.org/downloads/)
+- [JDK](https://www.oracle.com/technetwork/java/javase/downloads/jdk-netbeans-jsp-3413139-esa.html)
