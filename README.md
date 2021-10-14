@@ -25,6 +25,6 @@ Tabela de conteúdos
 
 ### Features
 
-- [x] Cadastro de usuário
-- [x] Cadastro de cliente
-- [ ] Cadastro de produtos
+- [] Construção do modelo conceitual do Banco de Dados
+- [] Construção do diagrama de Casos de Uso	
+ 
