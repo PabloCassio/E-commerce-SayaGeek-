@@ -41,21 +41,20 @@ Feito com ❤️ por:
 
 Analice Santos
 
-[![Github Badge](https://img.shields.io/github/followers/AnaliceX?style=social)](https://github.com/AnaliceX)
-[![Linkedin Badge](https://img.shields.io/badge/-Analice-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/analice-santos-590962144/)](https://www.linkedin.com/in/analice-santos-590962144/) 
-[![Gmail Badge](https://img.shields.io/badge/-analice.san2@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:analice.san2@gmail.com)](mailto:analice.san2@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-@tgmarinho-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/tgmarinho)](https://twitter.com/tgmarinho) [![Linkedin Badge](https://img.shields.io/badge/-Thiago-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tgmarinho/)](https://www.linkedin.com/in/tgmarinho/) 
+[![Gmail Badge](https://img.shields.io/badge/-tgmarinho@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tgmarinho@gmail.com)](mailto:tgmarinho@gmail.com)
 
 
 Isabela Souza
 
-[![Twitter Badge](https://img.shields.io/badge/-@tgmarinho-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/tgmarinho)](https://twitter.com/tgmarinho) [![Linkedin Badge](https://img.shields.io/badge/-Thiago-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tgmarinho/)](https://www.linkedin.com/in/tgmarinho/) 
-[![Gmail Badge](https://img.shields.io/badge/-tgmarinho@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tgmarinho@gmail.com)](mailto:tgmarinho@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-(seu@)-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://"seulink")](https:"seulink) [![Linkedin Badge](https://img.shields.io/badge/-Isabela-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/"seuusuário")](https://www.linkedin.com/in/"seuusuario") 
+[![Gmail Badge](https://img.shields.io/badge/-"seuemail@email.com"-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:"seuemail@email.com")](mailto:"seuemail@email.com")
 
 
 Matheus Campos
 
-[![Twitter Badge](https://img.shields.io/badge/-@tgmarinho-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/tgmarinho)](https://twitter.com/tgmarinho) [![Linkedin Badge](https://img.shields.io/badge/-Thiago-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tgmarinho/)](https://www.linkedin.com/in/tgmarinho/) 
-[![Gmail Badge](https://img.shields.io/badge/-tgmarinho@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tgmarinho@gmail.com)](mailto:tgmarinho@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-(seu@)-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://"seulink")](https:"seulink) [![Linkedin Badge](https://img.shields.io/badge/-Matheus-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/"seuusuário")](https://www.linkedin.com/in/"seuusuario") 
+[![Gmail Badge](https://img.shields.io/badge/-"seuemail@email.com"-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:"seuemail@email.com")](mailto:"seuemail@email.com")
 
 
 Pablo Cassio
@@ -68,5 +67,5 @@ Pablo Cassio
 
 Pedro Henrique
 
-[![Twitter Badge](https://img.shields.io/badge/-@tgmarinho-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/tgmarinho)](https://twitter.com/tgmarinho) [![Linkedin Badge](https://img.shields.io/badge/-Thiago-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tgmarinho/)](https://www.linkedin.com/in/tgmarinho/) 
-[![Gmail Badge](https://img.shields.io/badge/-tgmarinho@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tgmarinho@gmail.com)](mailto:tgmarinho@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-(seu@)-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://"seulink")](https:"seulink) [![Linkedin Badge](https://img.shields.io/badge/-Pedro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/"seuusuário")](https://www.linkedin.com/in/"seuusuario") 
+[![Gmail Badge](https://img.shields.io/badge/-"seuemail@email.com"-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:"seuemail@email.com")](mailto:"seuemail@email.com")
