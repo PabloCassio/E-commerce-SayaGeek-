@@ -48,8 +48,9 @@ Analice Santos
 
 Isabela Souza
 
-[![Twitter Badge](https://img.shields.io/badge/-(seu@)-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://"seulink")](https:"seulink) [![Linkedin Badge](https://img.shields.io/badge/-Isabela-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/"seuusuário")](https://www.linkedin.com/in/"seuusuario") 
-[![Gmail Badge](https://img.shields.io/badge/-"seuemail@email.com"-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:"seuemail@email.com")](mailto:"seuemail@email.com")
+[![Github Badge](https://img.shields.io/github/followers/Isabela-Trad?style=social)](https://github.com/Isabela-trad)
+[![Instagram Badge](https://img.shields.io/badge/bells.karolina-E4405F?style=social=instagram&logoColor=white)](https://instagram.com/bells.karolina)
+[![Gmail Badge](https://img.shields.io/badge/-"souzaisabela9230@gmail.com"-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:"souzaisabela9230@gmail.com")](mailto:"souzaisabela9230@gmail.com")
 
 
 Matheus Campos
