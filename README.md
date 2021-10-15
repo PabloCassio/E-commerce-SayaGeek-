@@ -41,8 +41,8 @@ Feito com ❤️ por:
 
 Analice Santos
 
-[![Github Badge](https://img.shields.io/github/followers/AnaliceX?style=social)](https://github.com/PabloCassio)
-[![Linkedin Badge](https://img.shields.io/badge/-Analice-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/analice-santos-590962144/)](https://www.linkedin.com/in/tgmarinho/) 
+[![Github Badge](https://img.shields.io/github/followers/AnaliceX?style=social)](https://github.com/AnaliceX)
+[![Linkedin Badge](https://img.shields.io/badge/-Analice-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/analice-santos-590962144/)](https://www.linkedin.com/in/analice-santos-590962144/) 
 [![Gmail Badge](https://img.shields.io/badge/-analice.san2@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:analice.san2@gmail.com)](mailto:analice.san2@gmail.com)
 
 
