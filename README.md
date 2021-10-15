@@ -59,8 +59,10 @@ Matheus Campos
 
 Pablo Cassio
 
+[![Github Badge](https://img.shields.io/github/followers/PabloCassio?style=social)](https://github.com/PabloCassio) 
 [![Linkedin Badge](https://img.shields.io/badge/-Pablo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pablo-lopes-6b4912207/)](https://www.linkedin.com/in/pablo-lopes-6b4912207/) 
 [![Gmail Badge](https://img.shields.io/badge/-pabcassio@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pabcassio@gmail.com)](mailto:pabcassio@gmail.com)
+
 
 
 Pedro Henrique
