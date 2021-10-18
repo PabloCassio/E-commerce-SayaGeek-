@@ -49,7 +49,7 @@ Analice Santos
 Isabela Souza
 
 [![Github Badge](https://img.shields.io/github/followers/Isabela-Trad?style=social)](https://github.com/Isabela-trad)
-[![Instagram Badge](https://img.shields.io/badge/bells.karolina-E4405F?style=social=instagram&logoColor=white)](https://instagram.com/bells.karolina)
+[![Linkedin Badge](https://img.shields.io/badge/-Isabela-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isabela-souza-537949223/)](https://www.linkedin.com/in/isabela-souza-537949223/) 
 [![Gmail Badge](https://img.shields.io/badge/-"souzaisabela9230@gmail.com"-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:"souzaisabela9230@gmail.com")](mailto:"souzaisabela9230@gmail.com")
 
 
