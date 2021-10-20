@@ -7,7 +7,7 @@
 🔖 Índice/Sumário
 =================
 <!--ts-->
-   * [Sobre](#-descricao-do-projeto)
+   * [Sobre](#%EF%B8%8F-descrição-do-projeto)
    * [Requisitos Funcionais](#-requisitos-funcionais)
    * [Progresso](#%EF%B8%8F-progresso)
    * [Tecnologias](#-tecnologias)
