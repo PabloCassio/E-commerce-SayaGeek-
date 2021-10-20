@@ -10,6 +10,7 @@ Tabela de conteúdos
    * [Sobre](#Descrição-do-Projeto)
    * [Andamento das atividades](#Progresso)
    * [Tecnologias](#-tecnologias)
+   * [Contribuição](#Contribuição)
    
 <!--te-->
 <h4 align="center"> 
