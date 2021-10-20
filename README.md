@@ -33,7 +33,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ### Contribuição
 ---
-Leia o arquivo [**CONTRIBUTING.md**](https://github.com/PabloCassio/E-commerce-SayaGeek-/main/CONTRIBUTING.md) para saber detalhes sobre o nosso código de conduta e o processo de envio de solicitações pull (Pull Request) para nós.
+Leia o arquivo [**CONTRIBUTING.md**](https://github.com/PabloCassio/E-commerce-SayaGeek-/blob/main/CONTRIBUTING.md) para saber detalhes sobre o nosso código de conduta e o processo de envio de solicitações pull (Pull Request) para nós.
 
 ### Autores
 ---
