@@ -8,7 +8,7 @@ Tabela de conteúdos
 =================
 <!--ts-->
    * [Sobre](#Descrição-do-Projeto)
-   * [Andamento das atividades](#Progresso)
+   * [Andamento das atividades](#🛠-Progresso)
    * [Tecnologias](#-🛠-Tecnologias)
    
 <!--te-->
