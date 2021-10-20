@@ -9,7 +9,7 @@ Tabela de conteúdos
 <!--ts-->
    * [Sobre](#Descrição-do-Projeto)
    * [Andamento das atividades](#Progresso)
-   * [Tecnologias](#�-Tecnologias)
+   * [Tecnologias](#-tecnologias)
    
 <!--te-->
 <h4 align="center"> 
