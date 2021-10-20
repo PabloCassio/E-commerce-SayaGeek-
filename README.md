@@ -8,9 +8,9 @@ Tabela de conteúdos
 =================
 <!--ts-->
    * [Sobre](#Descrição-do-Projeto)
-   * [Tabela de Conteudo](#tabela-de-conteudo)
    * [Andamento das atividades](#Progresso)
-   * [Tecnologias](#tecnologias)
+   * [Tecnologias](#Tecnologias)
+   
 <!--te-->
 <h4 align="center"> 
 	🚧  E-commerce (sayageek.com.br) 🚀 Em construção...  🚧
