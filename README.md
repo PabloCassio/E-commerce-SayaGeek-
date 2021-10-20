@@ -1,17 +1,17 @@
 # E-commerce SayaGeek 🖖🏼
 
-### Descrição do Projeto
+### ✍️ Descrição do Projeto
 <p align="center">Este projeto tem como objetivo moldar um e-commerce que busca proporcionar ao usuário uma experiência diferente do que o mercado proporciona hoje.</p>
 
 
 Índice/Sumário
 =================
 <!--ts-->
-   * [Sobre](#Descrição-do-Projeto)
-   * [Andamento das atividades](#Progresso)
+   * [Sobre](#-Descrição-do-Projeto)
+   * [Andamento das atividades](#-Progresso)
    * [Tecnologias](#-tecnologias)
-   * [Contribuição](#Contribuição)
-   * [Licença](#Licença)
+   * [Contribuição](#-Contribuição)
+   * [Licença](#-Licença)
    
 <!--te-->
 <h4 align="center"> 
