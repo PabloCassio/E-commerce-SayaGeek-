@@ -12,7 +12,7 @@
    * [Progresso](#%EF%B8%8F-progresso)
    * [Tecnologias](#-tecnologias)
    * [Contribuição](#-contribuição)
-   * [Licença](#-licenca)
+   * [Licença](#%EF%B8%8F-licença)
    * [Autores](#-autores)
    * [Agradecimentos](#-agradecimentos)
    
