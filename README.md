@@ -35,6 +35,10 @@ As seguintes ferramentas foram usadas na construção do projeto:
 ---
 Leia o arquivo [**CONTRIBUTING.md**](https://github.com/PabloCassio/E-commerce-SayaGeek-/blob/main/CONTRIBUTING.md) para saber detalhes sobre o nosso código de conduta e o processo de envio de solicitações pull (Pull Request) para nós.
 
+### Licença
+---
+Este projeto está licenciado sob a Licença MIT, consulte o arquivo [**LICENSE.md**](https://github.com/PabloCassio/E-commerce-SayaGeek-/blob/main/LICENSE) para mais detalhes.
+
 ### Autores
 ---
 
