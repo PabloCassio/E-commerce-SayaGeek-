@@ -9,7 +9,7 @@
 <!--ts-->
    * [Sobre](#-descricao-do-projeto)
    * [Requisitos Funcionais](#-requisitos-funcionais)
-   * [Progresso](#-progresso)
+   * [Progresso](#%EF%B8%8F-progresso)
    * [Tecnologias](#-tecnologias)
    * [Contribuição](#-contribuição)
    * [Licença](#-licenca)
