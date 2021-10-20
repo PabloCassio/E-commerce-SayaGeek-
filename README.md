@@ -11,6 +11,7 @@ Tabela de conteúdos
    * [Andamento das atividades](#Progresso)
    * [Tecnologias](#-tecnologias)
    * [Contribuição](#Contribuição)
+   * [Licença](#Licença)
    
 <!--te-->
 <h4 align="center"> 
