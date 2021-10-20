@@ -8,15 +8,15 @@ Tabela de conteúdos
 =================
 <!--ts-->
    * [Sobre](#Descrição-do-Projeto)
-   * [Andamento das atividades](#🛠-Progresso)
-   * [Tecnologias](#-🛠-Tecnologias)
+   * [Andamento das atividades](#Progresso)
+   * [Tecnologias](#Tecnologias)
    
 <!--te-->
 <h4 align="center"> 
 	🚧  E-commerce (sayageek.com.br) 🚀 Em construção...  🚧
 </h4>
 
-### 🛠 Progresso
+### Progresso
 ---
 - [ ] Construção do documento de requisitos
 - [ ] Construção do modelo conceitual do Banco de Dados
