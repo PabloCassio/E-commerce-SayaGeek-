@@ -4,19 +4,31 @@
 <p align="center">Este projeto tem como objetivo moldar um e-commerce que busca proporcionar ao usuário uma experiência diferente do que o mercado proporciona hoje.</p>
 
 
-Índice/Sumário
+🔖 Índice/Sumário
 =================
 <!--ts-->
-   * [Sobre](#-Descrição-do-Projeto)
-   * [Andamento das atividades](#-Progresso)
+   * [Sobre](#-descricao-do-projeto)
+   * [Requisitos Funcionais](#-requisitos-funcionais)
+   * [Andamento das atividades](#-progresso)
    * [Tecnologias](#-tecnologias)
-   * [Contribuição](#-Contribuição)
-   * [Licença](#-Licença)
+   * [Contribuição](#-contribuição)
+   * [Licença](#-licenca)
+   * [Autores](#-autores)
+   * [Agradecimentos](#-agradecimentos)
    
 <!--te-->
 <h4 align="center"> 
 	🚧  E-commerce (sayageek.com.br) 🚀 Em construção...  🚧
 </h4>
+
+
+### 👌 Requisitos Funcionais
+---
+- [ ] A
+- [ ] B
+- [ ] C 
+- [ ] D
+
 
 ### ✔️ Progresso
 ---
@@ -98,3 +110,6 @@ Feito com ❤️ por:
 
 [![Twitter Badge](https://img.shields.io/badge/-(seu@)-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://"seulink")](https:"seulink) [![Linkedin Badge](https://img.shields.io/badge/-Pedro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/"seuusuário")](https://www.linkedin.com/in/"seuusuario") 
 [![Gmail Badge](https://img.shields.io/badge/-"seuemail@email.com"-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:"seuemail@email.com")](mailto:"seuemail@email.com")
+
+### 🙏 Agradecimentos
+---
