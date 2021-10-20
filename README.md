@@ -49,11 +49,11 @@ Este projeto está licenciado sob a Licença MIT, consulte o arquivo [**LICENSE.
 Feito com ❤️ por:
 
 
+<a href="https://github.com/AnaliceX">
+ <img style="border-radius: 50%;" src="https://github.com/AnaliceX.png" width="100px;" alt=""/>
+ <br />
+ <sub><b>Analice Santos</b></sub></a> <a href="https://github.com/AnaliceX" title="GitHub"> 👩‍💻 </a>
 
-
-Analice Santos
-
-[![Github Badge](https://img.shields.io/github/followers/AnaliceX?style=social)](https://github.com/AnaliceX)
 [![Linkedin Badge](https://img.shields.io/badge/-Analice-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/analice-santos-590962144/)](https://www.linkedin.com/in/analice-santos-590962144/) 
 [![Gmail Badge](https://img.shields.io/badge/-analice.san2@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:analice.san2@gmail.com)](mailto:analice.san2@gmail.com)
 
