@@ -4,7 +4,7 @@
 <p align="center">Este projeto tem como objetivo moldar um e-commerce que busca proporcionar ao usuário uma experiência diferente do que o mercado proporciona hoje.</p>
 
 
-Tabela de conteúdos
+Índice/Sumário
 =================
 <!--ts-->
    * [Sobre](#Descrição-do-Projeto)
@@ -18,7 +18,7 @@ Tabela de conteúdos
 	🚧  E-commerce (sayageek.com.br) 🚀 Em construção...  🚧
 </h4>
 
-### Progresso
+### ✔️ Progresso
 ---
 - [ ] Construção do documento de requisitos
 - [ ] Construção do modelo conceitual do Banco de Dados
@@ -33,15 +33,15 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [Eclipse IDE](https://www.eclipse.org/downloads/)
 - [JDK](https://www.oracle.com/technetwork/java/javase/downloads/jdk-netbeans-jsp-3413139-esa.html)
 
-### Contribuição
+### 🤝 Contribuição
 ---
 Leia o arquivo [**CONTRIBUTING.md**](https://github.com/PabloCassio/E-commerce-SayaGeek-/blob/main/CONTRIBUTING.md) para saber detalhes sobre o nosso código de conduta e o processo de envio de solicitações pull (Pull Request) para nós.
 
-### Licença
+### ⚠️ Licença
 ---
 Este projeto está licenciado sob a Licença MIT, consulte o arquivo [**LICENSE.md**](https://github.com/PabloCassio/E-commerce-SayaGeek-/blob/main/LICENSE) para mais detalhes.
 
-### Autores
+### 📖 Autores
 ---
 
 
