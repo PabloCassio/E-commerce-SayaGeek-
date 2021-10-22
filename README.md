@@ -87,8 +87,7 @@ Feito com ❤️ por:
  <sub><b>Matheus Braka</b></sub></a> 
  <br/><br/>
  
-[![Twitter Badge](https://img.shields.io/badge/-(seu@)-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://"seulink")](https:"seulink) [![Linkedin Badge](https://img.shields.io/badge/-Matheus-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/"seuusuário")](https://www.linkedin.com/in/"seuusuario") 
-[![Gmail Badge](https://img.shields.io/badge/-"seuemail@email.com"-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:"seuemail@email.com")](mailto:"seuemail@email.com")
+
 
 
 <a href="https://github.com/PabloCassio">
