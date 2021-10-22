@@ -109,7 +109,7 @@ Feito com ❤️ por:
  <br/><br/>
 
  [![Linkedin Badge](https://img.shields.io/badge/-Pedro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/pedro-henrique-39a080224/)](https://www.linkedin.com/in/pedro-henrique-39a080224) 
-[![Gmail Badge](https://img.shields.io/badge/-"seuemail@email.com"-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pedromarcal223@gmail.com)](mailto:pedromarcal223@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-pedromarcal223@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pedromarcal223@gmail.com)](mailto:pedromarcal223@gmail.com)
 
 ### 🙏 Agradecimentos
 ---
