@@ -47,7 +47,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [MySQL Workbench](https://www.mysql.com/products/workbench/)
 - [Astah UML](https://astah.net/downloads/)
 - [Eclipse IDE](https://www.eclipse.org/downloads/)
-- [JDK](https://www.oracle.com/technetwork/java/javase/downloads/jdk-netbeans-jsp-3413139-esa.html)
+- [JDK](https://www.oracle.com/java/technologies/downloads/#jdk17-windows)
 
 ### 🤝 Contribuição
 ---
