@@ -1,6 +1,6 @@
 # E-commerce SayaGeek 🖖🏼
 
-
+![loja-geek-real (1)](https://user-images.githubusercontent.com/92341351/138561806-96a79b38-6cb2-495f-a1a0-b63d234e9e73.gif)
 
 
 
