@@ -1,5 +1,9 @@
 # E-commerce SayaGeek 🖖🏼
 
+![loja-geek-real (1)](https://user-images.githubusercontent.com/82393094/138558597-9827386b-6f2c-48a5-a6ba-ccfb34abd02f.gif)
+
+
+
 ### ✍️ Descrição do Projeto
 <p align="center">Este projeto tem como objetivo moldar um e-commerce que busca proporcionar ao usuário uma experiência diferente do que o mercado proporciona hoje.</p>
 
