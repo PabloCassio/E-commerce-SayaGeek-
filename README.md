@@ -33,9 +33,9 @@ Leia o [documento de requisitos](https://github.com/PabloCassio/E-commerce-SayaG
 
 ### ✔️ Progresso
 ---
-- [X] [Construção do modelo conceitual do Banco de Dados](https://github.com/PabloCassio/E-commerce-SayaGeek-/blob/main/db/Diagrama_Conceitual_SayaGeek.png)
+- [X] [Construção do modelo conceitual do Banco de Dados](https://github.com/PabloCassio/E-commerce-SayaGeek-/blob/main/db/Diagrama_Conceitual_SayaGeek.pdf)
 - [X] [Construção do diagrama de Casos de Uso](https://github.com/PabloCassio/E-commerce-SayaGeek-/blob/main/diagramas/UseCaseDiagram-SayaGeek.pdf)
-- [X] [Construção do modelo conceitual do Banco de Dados](https://github.com/PabloCassio/E-commerce-SayaGeek-/blob/main/db/Diagrama_Conceitual_SayaGeek.png)
+- [X] [Construção do documento de requisito](https://github.com/PabloCassio/E-commerce-SayaGeek-/blob/main/documentacao/Template%20-%20DocumentoRequisitos%20-Loja%20Geek.pdf)
 - [X] [Construção do Diagrama de Classes](https://github.com/PabloCassio/E-commerce-SayaGeek-/blob/main/diagramas/ClassDiagram-SayaGeek.pdf)
 - [X] [Contrução do modelo lógico do Banco de Dados](https://github.com/PabloCassio/E-commerce-SayaGeek-/blob/main/db/ERR_SayaGeek.pdf)
 
