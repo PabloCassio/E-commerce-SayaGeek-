@@ -28,24 +28,24 @@
 
 ### 👌 Requisitos Funcionais
 ---
-- [ ] A
-- [ ] B
-- [ ] C 
-- [ ] D
+Leia o [documento de requisitos](https://github.com/PabloCassio/E-commerce-SayaGeek-/blob/main/documentacao/Template%20-%20DocumentoRequisitos%20-Loja%20Geek.pdf) para saber mais sobre os requisitos do projeto.
 
 
 ### ✔️ Progresso
 ---
-- [ ] Construção do documento de requisitos
-- [ ] Construção do modelo conceitual do Banco de Dados
-- [ ] Construção do diagrama de Casos de Uso	
- 
+- [X] [Construção do modelo conceitual do Banco de Dados](https://github.com/PabloCassio/E-commerce-SayaGeek-/blob/main/db/Diagrama_Conceitual_SayaGeek.png)
+- [X] [Construção do diagrama de Casos de Uso](https://github.com/PabloCassio/E-commerce-SayaGeek-/blob/main/diagramas/UseCaseDiagram-SayaGeek.pdf)
+- [X] [Construção do modelo conceitual do Banco de Dados](https://github.com/PabloCassio/E-commerce-SayaGeek-/blob/main/db/Diagrama_Conceitual_SayaGeek.png)
+- [X] [Construção do Diagrama de Classes](https://github.com/PabloCassio/E-commerce-SayaGeek-/blob/main/diagramas/ClassDiagram-SayaGeek.pdf)
+- [X] [Contrução do modelo lógico do Banco de Dados](https://github.com/PabloCassio/E-commerce-SayaGeek-/blob/main/db/ERR_SayaGeek.pdf)
+
 ### 🛠 Tecnologias
 ---
 As seguintes ferramentas foram usadas na construção do projeto:
 
 - [MySQL Workbench](https://www.mysql.com/products/workbench/)
 - [Astah UML](https://astah.net/downloads/)
+- [Lucid App](https://lucid.app)
 - [Eclipse IDE](https://www.eclipse.org/downloads/)
 - [JDK](https://www.oracle.com/java/technologies/downloads/#jdk17-windows)
 
@@ -117,3 +117,4 @@ Feito com ❤️ por:
 
 ### 🙏 Agradecimentos
 ---
+Agradecememos aos professores Alexandre Siqueira e Diego Barros pelos ensinos e orientações do projeto, que agregaram muito ao nosso conhecimento da teoria sobre modelagem de software e do uso das ferramentas para a realização da modelagem.
