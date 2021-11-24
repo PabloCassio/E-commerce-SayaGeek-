@@ -22,7 +22,7 @@
    
 <!--te-->
 <h4 align="center"> 
-	🚧  E-commerce (sayageek.com.br) 🚀 Em construção...  🚧
+	 Conheça o nosso projeto 🚀🚀🚀
 </h4>
 
 
@@ -117,4 +117,4 @@ Feito com ❤️ por:
 
 ### 🙏 Agradecimentos
 ---
-Agradecememos aos professores Alexandre Siqueira e Diego Barros pelos ensinos e orientações do projeto, que agregaram muito ao nosso conhecimento da teoria sobre modelagem de software e do uso das ferramentas para a realização da modelagem.
+Agradecemos aos professores Alexandre Siqueira e Diego Barros pelos ensinos e orientações do projeto, que agregaram muito ao nosso conhecimento da teoria sobre modelagem de software e do uso das ferramentas para a realização da modelagem.
